@@ -1,0 +1,10 @@
+#contacto{
+    padding-top: 20px;
+}
+.caja{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+}

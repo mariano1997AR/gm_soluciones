@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+/*
+.contenedor{
+    color: white;
+}
+*/
+/*scroll personalizado*/
+
+body::-webkit-scrollbar{
+    width: 10px;
+    background: white;
+    transition: all 1s;
+}
+body::-webkit-scrollbar:hover{
+    background: aliceblue;
+}
+body::-webkit-scrollbar-thumb{
+    background: #000;
+    border-radius: 20px;
+    opacity: 0.3;
+}

@@ -1,0 +1,13 @@
+.centrar{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+.imagen{
+    width: 350px;
+    margin-right: 25px;
+}
